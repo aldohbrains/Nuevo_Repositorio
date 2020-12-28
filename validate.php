@@ -1,1 +1,3 @@
-<?php echo 'validate' 
+<?php 
+/** Archivo Incompleto
+echo 'validate'
